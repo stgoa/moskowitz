@@ -1,4 +1,4 @@
-# Summary: "Do Industries Explain Momentum?" by Tobias J. Moskowitz and Mark Grinblatt (1999)
+# _"Do Industries Explain Momentum?"_ by Tobias J. Moskowitz and Mark Grinblatt (1999)
 
 A landmark paper in *The Journal of Finance* exploring the source of stock return momentum.
 
