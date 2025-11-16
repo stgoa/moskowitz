@@ -19,3 +19,9 @@ venv/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# MacOS
+.DS_Store
+
+# PDF
+*.pdf
