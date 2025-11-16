@@ -1,0 +1,21 @@
+# Python Files To Ignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyz
+
+# Virtual Environment Files To Ignore
+
+venv/
+.venv/
+.env/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
